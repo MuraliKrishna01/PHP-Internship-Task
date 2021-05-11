@@ -1,0 +1,19 @@
+.heading
+{
+  position: relative;
+  display: inline-block;
+  padding: 15px 20px;
+  color: #2196f3;
+}
+.heading:hover
+{
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3 , 0 0 40px #2196f3 , 0 0 80px #2196f3 ;
+    transition-delay: 0.5;
+}
+body{
+  background-color: #255784 ;
+  background:url();/*MCY-White.png*/
+  background-size: auto;
+}
